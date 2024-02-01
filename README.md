@@ -1,4 +1,4 @@
-# ERC20 tokens no. of wallet holders tracker
+# ERC20 tokens: no. of holders tracker
 This script pulls active tokens from the CoinMarketCap API and gets the no. of holders information from the Ethplorer API. The final results are stored in contracts_with_more_than_10k_holders.csv where it shows erc20 tokens with more than 10k holders.
 
 ## File Structure
