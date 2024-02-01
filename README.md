@@ -12,7 +12,7 @@ erc20_tokens.py # Pulls active tokens from coin market cap API
 
 token_info.py # Pulls no. of holders based on contract address from Ethplorer API
 
-more_than_10k.py # Filters for tokens with >= 10k holders
+more_than_10k.py # Filters for tokens with > 10k holders
 
 num_holders_tokens_list.csv # Result file
 ```
