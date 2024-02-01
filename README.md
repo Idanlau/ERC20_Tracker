@@ -3,6 +3,7 @@ This script pulls active tokens from the CoinMarketCap API and gets the no. of h
 
 ## File Structure
 
+```bash
 .env # Stores the API keys
 
 worker.py # Orchestrator file
@@ -14,6 +15,7 @@ token_info.py # Pulls no. of holders based on contract address from Ethplorer AP
 more_than_10k.py # Filters for tokens with >= 10k holders
 
 num_holders_tokens_list.csv # Result file
+```
 
 ## Running it
 
